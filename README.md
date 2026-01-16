@@ -9,11 +9,8 @@ This project demonstrates building a Java web application using Maven and deploy
 - Apache Tomcat 9
 
 ## Build
-
-
-mvn clean package
-
-
+mvn clean 
+mvn package
 
 ## Deploy
 Copy WAR file to Tomcat webapps directory.
